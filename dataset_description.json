@@ -14,5 +14,8 @@
     "License": "CC0",
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004554.v1.0.2"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004554.v1.0.2",
+    "EthicsApprovals": [
+        "EEG data collection was approved by the ethical committee CER Grenoble Alpes-Avis-2020-09-01-3"
+    ]
 }
